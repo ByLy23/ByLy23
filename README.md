@@ -38,12 +38,7 @@ const byly = {
 byly.contact.map((element) => console.log(element));
 ```
 
-> Output>
-
-        [Outlook](mailto:byronorellana556@hotmail.com)
-        [CV (Spanish)]()
-        [CV (English)]()
-        [Linkedin](www.linkedin.com/in/byronorellana-byly23/)
+> Output> [Outlook](mailto:byronorellana556@hotmail.com) [CV (Spanish)]() [CV (English)]() [Linkedin](www.linkedin.com/in/byronorellana-byly23/)
 
 # IDE's y ofimatica
 
