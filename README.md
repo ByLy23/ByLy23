@@ -28,9 +28,9 @@ const byly = {
   },
   architecture: ['mcv', 'interpreter', 'client-server', 'layers'],
   methodology: ['kanban', 'SCRUM', 'XP', 'SCRUMBAN'],
+  contact: [],
 };
-
-console.log([byly](google.com));
+byly.contact.map((element) => console.log(element));
 ```
 
 # MANEJO DE REPOSITORIOS
