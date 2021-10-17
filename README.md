@@ -11,49 +11,32 @@
 const byly = {
   pronouns: 'he' | 'him',
   code_languages: ['Assembler', 'Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html5', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
-  Tech: {
-    Frontend: {
+  tech: {
+    frontend: {
       js: ['Angular', 'React'],
       test: ['Jasmine', 'Jest'],
     },
-    Backend: {
+    backend: {
       js: ['Node Js'],
       python: ['Flask'],
       testing: ['Mocha Js'],
     },
-    Database: {
+    database: {
       sql: ['MySQL', 'Oracle'],
       noSql: ['MongoDB'],
     },
+    version_control: ['Git', 'Github', 'Gitlab'],
+    design: ['Adobe XD', 'Figma', 'Photoshop'],
   },
   architecture: ['mcv', 'interpreter', 'client-server', 'layers'],
   methodology: ['kanban', 'SCRUM', 'XP', 'SCRUMBAN'],
-  contact: [],
+  contact: ['Outlook', 'CV (spanish)', 'CV (english)', 'Linkedin'],
 };
+//Show all my contacts
 byly.contact.map((element) => console.log(element));
 ```
 
-# MANEJO DE REPOSITORIOS
-
-- GIT
-- GITHUB
-- GITLAB
-
-# BASES DE DATOS
-
-- MYSQL
-- MONGODB
-- ORACLE
-
-# TESTING FRAMES
-
-"Jasmine", "Jest", "Mocha Js"
-
-# HERRAMIENTAS DE DISENIO
-
-- ADOBE XD
-- FIGMA
-- PHOTOSHOP
+`[asd](google.com)`
 
 # IDE's y ofimatica
 
@@ -67,9 +50,3 @@ byly.contact.map((element) => console.log(element));
 - SUBLIME TEXT
 - MICROSOFT OFFICE PACKAGE
 - LIBRE OFFICE
-
-# CONTACTO
-
-- OUTLOOK
-- LINKEDIN
-- GMAIL
