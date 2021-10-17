@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
+- 🎮 My favorite games are God of War and The Last of Us Part l and Part ll
 
 ## About Me:
 
@@ -20,10 +21,16 @@ const byly = {
       python: ['Flask'],
       testing: ['Mocha Js'],
     },
+    Database: {
+      sql: ['MySQL', 'Oracle'],
+      noSql: ['MongoDB'],
+    },
   },
   architecture: ['mcv', 'interpreter', 'client-server', 'layers'],
   methodology: ['kanban', 'SCRUM', 'XP', 'SCRUMBAN'],
 };
+
+console.log([byly](google.com));
 ```
 
 # MANEJO DE REPOSITORIOS
@@ -66,8 +73,3 @@ const byly = {
 - OUTLOOK
 - LINKEDIN
 - GMAIL
-
-# SISTEMAS OPERATIVOS
-
-- LINUX
-- WINDOWS
