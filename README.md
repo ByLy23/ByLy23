@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byly23&color=166EC6&style=flat-square)
 
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning the biggest world of UX Design and the Frontend tools
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
 - 🎮 My favorite games are God of War and The Last of Us Part l and Part ll
@@ -12,7 +12,7 @@
 ```javascript
 const byly = {
   pronouns: 'he' | 'him',
-  code_languages: ['Assembler', 'Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html5', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
+  code_languages: ['Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html5', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
   tech: {
     frontend: {
       js: ['Angular', 'React'],
@@ -27,14 +27,15 @@ const byly = {
       sql: ['MySQL', 'Oracle'],
       noSql: ['MongoDB'],
     },
-    version_control: ['Git', 'Github', 'Gitlab'],
+    version_control: ['Git', 'Github', 'Gitlab', 'Gitflow'],
     design: ['Adobe XD', 'Figma', 'Photoshop'],
   },
   architecture: ['mcv', 'interpreter', 'client-server', 'layers'],
-  methodology: ['kanban', 'SCRUM', 'XP', 'SCRUMBAN'],
+  methodology: ['Kanban', 'SCRUM', 'XP', 'SCRUMBAN', 'Cascade'],
+  learning: ['Flutter', 'React Native', 'Bootstrap', 'Sass', 'CEO'],
   contact: ['Outlook', 'CV (spanish)', 'CV (english)', 'Linkedin'],
 };
-//Show all my contacts
+//Show all the ways of contact me.
 byly.contact.map((element) => console.log(element));
 ```
 
@@ -43,19 +44,6 @@ byly.contact.map((element) => console.log(element));
 > Output>
 
 - [Outlook](mailto:byronorellana556@hotmail.com)
-- [CV (Spanish)]()
-- [CV (English)]()
-- [Linkedin](www.linkedin.com/in/byronorellana-byly23/)
-
-# IDE's y ofimatica
-
-- CISCO PACKET TRACER
-- CODEBLOCKS
-- GNS3
-- NETBEANS
-- PROTEUS
-- VISUAL STUDIO 2019
-- VISUAL STUDIO CODE
-- SUBLIME TEXT
-- MICROSOFT OFFICE PACKAGE
-- LIBRE OFFICE
+- [CV (Spanish)](https://drive.google.com/file/d/14z4wybPxvzOHeQSp7TYzzcyAb-NfUeCi/view?usp=sharing)
+- [CV (English)](https://drive.google.com/file/d/1-ZAHaLVuBjfzMNBTJeqVuzMOPvuvtKgy/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/byronorellana-byly23/)
