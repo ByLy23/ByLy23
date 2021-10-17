@@ -4,33 +4,33 @@
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
 
-# LENGUAJES DE PROGRAMACION
+## About Me:
 
-- ASSEMBLER
-- ![ARDUINO](img/arduino.svg)
-- C++
-- C#
-- CSS
-- GOLANG
-- GRAPHVIZ
-- HTML5
-- JAVA
-- JAVASCRIPT
-- PYTHON
-- TYPESCRIPT
-- VISUAL BASIC
+```javascript
+const byly = {
+  pronouns: 'he' | 'him',
+  code_languages: ['Assembler', 'Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html5', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
+  Tech: {
+    Frontend: {
+      js: ['Angular', 'React'],
+      test: ['Jasmine', 'Jest'],
+    },
+    Backend: {
+      js: ['Node Js'],
+      python: ['Flask'],
+      testing: ['Mocha Js'],
+    },
+  },
+  architecture: ['mcv', 'interpreter', 'client-server', 'layers'],
+  methodology: ['kanban', 'SCRUM', 'XP', 'SCRUMBAN'],
+};
+```
 
 # MANEJO DE REPOSITORIOS
 
 - GIT
 - GITHUB
 - GITLAB
-
-# FRAMEWORKS Y LIBRERIAS
-
-- ANGULAR
-- NODEJS
-- REACT
 
 # BASES DE DATOS
 
@@ -40,9 +40,7 @@
 
 # TESTING FRAMES
 
-- JASMINE
-- JEST
-- MOCHA
+"Jasmine", "Jest", "Mocha Js"
 
 # HERRAMIENTAS DE DISENIO
 
