@@ -1,16 +1,75 @@
-### Hi there 👋
+### Hi there! I'm Byron but you can call me ByLy 😅
 
-<!--
-**ByLy23/ByLy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning React and React Native
+- 👯 I’m looking to collaborate with great and nice people!!
+- ⚡ Fun fact: I love play guitar / ukelele
 
-Here are some ideas to get you started:
+# LENGUAJES DE PROGRAMACION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ASSEMBLER
+- ARDUINO
+- C++
+- C#
+- CSS
+- GOLANG
+- GRAPHVIZ
+- HTML5
+- JAVA
+- JAVASCRIPT
+- PYTHON
+- TYPESCRIPT
+- VISUAL BASIC
+
+# MANEJO DE REPOSITORIOS
+
+- GIT
+- GITHUB
+- GITLAB
+
+# FRAMEWORKS Y LIBRERIAS
+
+- ANGULAR
+- NODEJS
+- REACT
+
+# BASES DE DATOS
+
+- MYSQL
+- MONGODB
+- ORACLE
+
+# TESTING FRAMES
+
+- JASMINE
+- JEST
+- MOCHA
+
+# HERRAMIENTAS DE DISENIO
+
+- ADOBE XD
+- FIGMA
+- PHOTOSHOP
+
+# IDE's y ofimatica
+
+- CISCO PACKET TRACER
+- CODEBLOCKS
+- GNS3
+- NETBEANS
+- PROTEUS
+- VISUAL STUDIO 2019
+- VISUAL STUDIO CODE
+- SUBLIME TEXT
+- MICROSOFT OFFICE PACKAGE
+- LIBRE OFFICE
+
+# CONTACTO
+
+- OUTLOOK
+- LINKEDIN
+- GMAIL
+
+# SISTEMAS OPERATIVOS
+
+- LINUX
+- WINDOWS
