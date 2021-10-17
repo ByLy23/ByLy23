@@ -1,5 +1,7 @@
 ### Hi there! I'm Byron but you can call me ByLy 😅
 
+![Profile Views](https://komarev.com/ghpvc/?username=byly23&color=166EC6&style=flat-square)
+
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
@@ -36,7 +38,12 @@ const byly = {
 byly.contact.map((element) => console.log(element));
 ```
 
-`[asd](google.com)`
+> Output>
+
+        [Outlook](mailto:byronorellana556@hotmail.com)
+        [CV (Spanish)]()
+        [CV (English)]()
+        [Linkedin](www.linkedin.com/in/byronorellana-byly23/)
 
 # IDE's y ofimatica
 
