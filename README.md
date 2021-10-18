@@ -42,8 +42,8 @@ byly.contact.map((element) => console.log(element));
 ---
 
 > Output>
-
-- [Outlook](mailto:byronorellana556@hotmail.com)
-- [CV (Spanish)](https://drive.google.com/file/d/14z4wybPxvzOHeQSp7TYzzcyAb-NfUeCi/view?usp=sharing)
-- [CV (English)](https://drive.google.com/file/d/1-ZAHaLVuBjfzMNBTJeqVuzMOPvuvtKgy/view?usp=sharing)
-- [LinkedIn](https://www.linkedin.com/in/byronorellana-byly23/)
+>
+> - [Outlook](mailto:byronorellana556@hotmail.com)
+> - [CV (Spanish)](https://drive.google.com/file/d/14z4wybPxvzOHeQSp7TYzzcyAb-NfUeCi/view?usp=sharing)
+> - [CV (English)](https://drive.google.com/file/d/1-ZAHaLVuBjfzMNBTJeqVuzMOPvuvtKgy/view?usp=sharing)
+> - [LinkedIn](https://www.linkedin.com/in/byronorellana-byly23/)
