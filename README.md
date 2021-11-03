@@ -12,7 +12,7 @@
 ```javascript
 const byly = {
   pronouns: 'he' | 'him',
-  code_languages: ['Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html5', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
+  code_languages: ['Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
   tech: {
     frontend: {
       js: ['Angular', 'React'],
@@ -27,11 +27,11 @@ const byly = {
       sql: ['MySQL', 'Oracle'],
       noSql: ['MongoDB'],
     },
-    version_control: ['Git', 'Github', 'Gitlab', 'Gitflow'],
+    version_control: ['Git', 'Github', 'Gitlab'],
     design: ['Adobe XD', 'Figma', 'Photoshop'],
   },
-  architecture: ['mcv', 'interpreter', 'client-server', 'layers'],
-  methodology: ['Kanban', 'SCRUM', 'XP', 'SCRUMBAN', 'Cascade'],
+  architecture: ['MCV', 'interpreter', 'client-server', 'layers', 'OOP'],
+  methodology: ['Kanban', 'SCRUM', 'XP', 'SCRUMBAN', 'Cascade', 'Gitflow'],
   learning: ['Flutter', 'React Native', 'Bootstrap', 'Sass', 'CEO'],
   contact: ['Outlook', 'CV (spanish)', 'CV (english)', 'Linkedin'],
 };
