@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byly23&color=166EC6&style=flat-square)
 
-- 🌱 I’m currently learning the biggest world of UX Design and the Frontend tools
+- 🌱 I’m currently learning the biggest world of Frontend & Backend using UX concepts.
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
 - 🎮 My favorite games are God of War and The Last of Us Part l and Part ll
