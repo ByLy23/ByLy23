@@ -32,7 +32,7 @@ const byly = {
   },
   architecture: ['MCV', 'interpreter', 'client-server', 'layers', 'OOP'],
   methodology: ['Kanban', 'SCRUM', 'XP', 'SCRUMBAN', 'Cascade', 'Gitflow'],
-  learning: ['Flutter', 'React Native', 'Bootstrap', 'Sass', 'CEO'],
+  learning: ['Flutter', 'React Native', 'AWS'],
   contact: ['Outlook', 'CV (spanish)', 'CV (english)', 'Linkedin'],
 };
 //Show all the ways of contact me.
