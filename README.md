@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byly23&color=166EC6&style=flat-square)
 
-- 🌱 I’m currently learning the biggest world of UX Design and the Frontend tools
+- 🌱 I’m currently learning the biggest world of the Software Engineering
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
 - 🎮 My favorite games are God of War and The Last of Us Part l and Part ll
@@ -12,10 +12,10 @@
 ```javascript
 const byly = {
   pronouns: 'he' | 'him',
-  code_languages: ['Arduino', 'C++', 'C#', 'Css', 'Golang', 'Graphviz', 'Html', 'Java', 'Javascript', 'Python', 'Typescript', 'Visual Basic'],
+  code_languages: ['HTML', 'CSS', 'Javascript','Typescript','Sass','Arduino', 'C++', 'C#', 'Java', 'Golang', 'Graphviz', 'Python', 'Visual Basic'],
   tech: {
     frontend: {
-      js: ['Angular', 'React'],
+      js: ['React','Angular'],
       test: ['Jasmine', 'Jest'],
     },
     backend: {
@@ -30,10 +30,10 @@ const byly = {
     version_control: ['Git', 'Github', 'Gitlab'],
     design: ['Adobe XD', 'Figma', 'Photoshop'],
   },
-  architecture: ['MCV', 'interpreter', 'client-server', 'layers', 'OOP'],
+  architecture: ['SOA','MCV', 'interpreter', 'client-server', 'layers', 'OOP'],
   methodology: ['Kanban', 'SCRUM', 'XP', 'SCRUMBAN', 'Cascade', 'Gitflow'],
-  learning: ['Flutter', 'React Native', 'Bootstrap', 'Sass', 'CEO'],
-  contact: ['Outlook', 'CV (spanish)', 'CV (english)', 'Linkedin'],
+  learning: ['SOLID', 'React Native','Next.Js'],
+  contact: ['Portfolio','Email', 'Resume', 'Linkedin'],
 };
 //Show all the ways of contact me.
 byly.contact.map((element) => console.log(element));
@@ -43,7 +43,7 @@ byly.contact.map((element) => console.log(element));
 
 > Output>
 >
-> - [Outlook](mailto:byronorellana556@hotmail.com)
-> - [CV (Spanish)](https://drive.google.com/file/d/14z4wybPxvzOHeQSp7TYzzcyAb-NfUeCi/view?usp=sharing)
-> - [CV (English)](https://drive.google.com/file/d/1-ZAHaLVuBjfzMNBTJeqVuzMOPvuvtKgy/view?usp=sharing)
+> - [Portfolio](https://byronorellana.me/)
+> - [Email](mailto:byronorellana556@hotmail.com)
+> - [Resume](https://drive.google.com/file/d/10ldU-ESZQ58ZYo8HKC2JoM1wWRFa5bYX/view?usp=sharing)
 > - [LinkedIn](https://www.linkedin.com/in/byronorellana-byly23/)
