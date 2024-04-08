@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning the biggest world of the Software Engineering
 - 👯 I’m looking to collaborate with great and nice people!!
 - ⚡ Fun fact: I love play guitar / ukelele
-- 🎮 My favorite games are God of War and The Last of Us Part l and Part ll
+- 🎮 My favorite games are God of War and The Last of Us Part l
 
 ## About Me:
 
